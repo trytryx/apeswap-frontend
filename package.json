@@ -29,7 +29,7 @@
     ]
   },
   "dependencies": {
-    "@apeswapfinance/sdk": "^2.0.0-alpha.14",
+    "@ape.swap/sdk": "2.0.0",
     "@apeswapfinance/uikit": "0.10.6-6.0",
     "@apeswapfinance/token-lists": "1.0.233",
     "@binance-chain/bsc-connector": "^1.0.0",
