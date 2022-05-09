@@ -1,28 +1,28 @@
 // Network chain ids
 
 export const CHAIN_ID = {
-  BSC: 56,
-  BSC_TESTNET: 97,
   MATIC: 137,
   MATIC_TESTNET: 80001,
+  BSC: 56,
+  BSC_TESTNET: 97,
 }
 
 // Network labels
 
 export const NETWORK_LABEL = {
-  [CHAIN_ID.BSC]: 'BSC',
-  [CHAIN_ID.BSC_TESTNET]: 'BSC Testnet',
   [CHAIN_ID.MATIC]: 'Polygon',
   [CHAIN_ID.MATIC_TESTNET]: 'Polygon Testnet',
+  [CHAIN_ID.BSC]: 'BSC',
+  [CHAIN_ID.BSC_TESTNET]: 'BSC Testnet',
 }
 
 // Network icons
 
 export const NETWORK_ICON = {
-  [CHAIN_ID.BSC]: '',
-  [CHAIN_ID.BSC_TESTNET]: '',
   [CHAIN_ID.MATIC]: '',
   [CHAIN_ID.MATIC_TESTNET]: '',
+  [CHAIN_ID.BSC]: '',
+  [CHAIN_ID.BSC_TESTNET]: '',
 }
 
 export const NETWORK_INFO_LINK = {
